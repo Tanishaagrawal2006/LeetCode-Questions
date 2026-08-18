@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
