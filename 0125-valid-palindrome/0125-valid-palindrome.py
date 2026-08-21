@@ -9,11 +9,9 @@ class Solution(object):
 
             while left < right and not s[left].isalnum():
                 left += 1
-                continue
 
             while left < right and not s[right].isalnum():
                 right -= 1
-                continue
 
             if s[left] != s[right]:
                return False
