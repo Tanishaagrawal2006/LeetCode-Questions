@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
