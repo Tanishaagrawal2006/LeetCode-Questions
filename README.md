@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/Tanishaagrawal2006/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
